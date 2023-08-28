@@ -1,0 +1,7 @@
+name = "TestMyPlotExtras"
+uuid = "679a42ec-c8f9-48a5-807c-1ce16acee5ed"
+authors = ["Henry Gebhardt <gebhardt@caltech.edu>"]
+version = "0.1.0"
+
+[deps]
+MyPlotExtras = "ce2f6c8f-2698-494a-aa8a-988cec3d9217"
